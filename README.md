@@ -1,24 +1,12 @@
-# Tarjeta-Interactiva-PatriciaAlEs
-Plantilla de tarjeta interactiva con HTML, CSS,JS y DOM para el prework de 4Geeks Academy
+## Instrucciones:
 
+### 1. Revisión del Código:
+Clona este repositorio y abre los archivos en tu editor de código. Examina cómo se estructura el HTML, CSS y JavaScript, y cómo se interactúa con el DOM para hacer que la tarjeta sea interactiva.
 
-Tarjeta de Presentación Interactiva
+### 2. Eliminar y Rehacer el Proyecto:
+Cuando termines de revisar el código, elimina todo el contenido del proyecto y comienza a recrearlo desde cero. Recuerda lo siguiente:
+- Usa lo que aprendiste sobre HTML, CSS y JavaScript para construir la tarjeta.
+- Asegúrate de aplicar los conceptos de manipulación del DOM (como `getElementById`, `addEventListener`, y cambios de `style`).
 
-Tecnologías Usadas
-HTML: Estructura de la página y contenido.
-CSS: Estilos y diseño responsivo de la tarjeta.
-JavaScript: Funcionalidad interactiva para mostrar/ocultar más información.
-Objetivo
-El objetivo de este proyecto es crear una tarjeta de presentación personalizable con una sección que muestre más información al hacer clic en un botón. Este ejercicio tiene como finalidad practicar y consolidar los siguientes conceptos:
-
-Estructura básica de una página web (HTML).
-Estilización de elementos con CSS (incluyendo flex, hover, transition).
-Interactividad con JavaScript (eventos, manipulación del DOM).
-
-Clonar el repositorio:
-Puedes clonar este repositorio usando el siguiente comando en tu terminal:
-git clone https://github.com/PatriciaAl/Tarjeta-Interactiva-PatriciaAlEs.git
-
-Abrir el archivo HTML:
-Una vez clonado el repositorio, abre el archivo index.html en tu navegador para ver la tarjeta de presentación interactiva.
-
+### 3. Comparación:
+Una vez que hayas terminado, compara tu proyecto con el código original para verificar que todo esté correcto. ¿Hay algo que puedas mejorar o añadir? ¡Hazlo!
