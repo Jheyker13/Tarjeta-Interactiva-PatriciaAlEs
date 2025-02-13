@@ -4,35 +4,65 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #f4f4f4;
+    background-color: #2a2a2a; 
+    margin: 0;
 }
 
 .card {
     background: white;
     padding: 20px;
     border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border: 3px solid #f0c674; 
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
     text-align: center;
-    width: 250px;
+    width: 300px;
+    transition: all 0.3s ease-in-out;
+}
+
+.card:hover {
+    transform: scale(1.05); 
+    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.4); 
 }
 
 .card img {
     border-radius: 50%;
-    width: 100px;
-    height: 100px;
+    width: 150px; 
+    height: 150px;
     object-fit: cover;
+    border: 5px solid #166816; 
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); 
+}
+
+h2 {
+    font-size: 24px;
+    color: #2d6a4f; 
+    font-weight: bold;
+    margin: 15px 0;
+}
+
+p {
+    font-size: 16px;
+    color: #444; 
+    margin-bottom: 20px;
 }
 
 button {
-    background: #007BFF;
-    color: white;
+    background: black; 
+    color: yellow; 
     border: none;
-    padding: 10px;
+    padding: 12px 20px;
     margin-top: 10px;
     cursor: pointer;
     border-radius: 5px;
+    font-size: 16px;
+    font-weight: bold;
+    transition: background 0.3s ease;
 }
 
 button:hover {
-    background: #0056b3;
+    background: #e6b800; 
+}
+
+button:focus {
+    outline: none;
 }
