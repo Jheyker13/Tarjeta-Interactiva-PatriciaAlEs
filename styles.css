@@ -12,7 +12,7 @@ body {
     background: white;
     padding: 20px;
     border-radius: 10px;
-    border: 3px solid #f0c674; 
+    border: 3px solid #f7c767; 
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
     text-align: center;
     width: 300px;
@@ -29,7 +29,7 @@ body {
     width: 150px; 
     height: 150px;
     object-fit: cover;
-    border: 5px solid #166816; 
+    border: 5px solid #fc0505; 
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); 
 }
 
